@@ -78,4 +78,4 @@ sass:
 
 collections:
   faqs:
-    output: false
+    output: true

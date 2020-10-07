@@ -58,7 +58,7 @@ google_analytics:
 google_maps_api_key:
 
 # Path to post content assets directory i.e post images, pdfs etc
-post_assets:        /assets/posts
+post_assets:        /assets/posts/
 
 # Build settings
 markdown:           kramdown
